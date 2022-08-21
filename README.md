@@ -1,2 +1,9 @@
 # template-tf-digitalocean
-Template template repository for the digital ocean provider
+Terraform template repository. I primaryly use this for digital ocean cause everything else is usually too expensive, but there are some additional providers I added.
+
+Providers added in:
+- Digital Ocean
+- Azure
+- AWS
+- Heroku
+- Google
